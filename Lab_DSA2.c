@@ -1,3 +1,4 @@
+//
 #include 
 int Queue[100];
 int front=-1,rear=-1;
